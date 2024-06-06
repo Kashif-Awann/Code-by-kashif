@@ -158,9 +158,10 @@
   }
   .search-bar{
     width: 120px;
+    height: 30px;
   }
   .search-button{
-    height: 43px;
+    height: 42px;
     width: 40px;
   }
 }
