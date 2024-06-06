@@ -164,4 +164,10 @@
     height: 42px;
     width: 40px;
   }
+  .search-icon{
+    margin-top: 2px
+  }
+  .voice-search-icon{
+    margin-top: 2px
+  }
 }
